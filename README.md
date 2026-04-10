@@ -254,6 +254,7 @@ Team Members:
 
 *Ayush Pandey
 *Ayush Singh
+*Divyanshi Jaiswal
 
 ---
 
