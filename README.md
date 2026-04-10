@@ -252,10 +252,8 @@ The visualizations created in Tableau provide an intuitive way for healthcare pr
 
 Team Members:
 
-* Ashish Sah
-* Atharv Gupta
-* Avani Sharma
-* Chirag Pandey
+*Ayush Pandey
+*Ayush Singh
 
 ---
 
